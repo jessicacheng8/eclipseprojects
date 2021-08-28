@@ -1,0 +1,22 @@
+ 
+ 
+public class Demo {  
+	Demo(String[] args) {
+		if (args.length > 0)
+			System.out.println(args[0]);
+	}
+
+	public static void main(String[] args) {  
+ 
+		 
+
+		 
+		 System.out.println("Tets");
+		new Demo(args);
+		System.out.println("CompleteA.({[");
+		  System.out.println("CompletB.({[");
+
+		System.out.println("CompleteC.({[");
+		  System.out.println("CompleteD.({[");
+	}
+}
